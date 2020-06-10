@@ -19,7 +19,7 @@ const Comments = ({ postTitle, postSlug, fbCommentUrl = null }: Props) => {
   } = useSiteMetadata();
 
   if (facebookComment && facebookComment.active) {
-    const oldUrl = 'http://blog.duyetdev.com'; // TODO: migrate comment to new URL
+    const oldUrl = 'http://blog.do.nguyen.com'; // TODO: migrate comment to new URL
     comments.push(
         <FacebookComment
           key="fb"

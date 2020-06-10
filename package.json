@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "name": "blog.duyet.net",
+  "name": "blog.do.nguyen.net",
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
   "scripts": {
@@ -18,7 +18,7 @@
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
   "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Duyet Le <me@duyet.net>",
+  "author": "Do Nguyen <me@do.nguyen.net>",
   "originalAuthor": "Alexander Shelepenok <alxshelepenok@gmail.com>",
   "license": "MIT",
   "keywords": [

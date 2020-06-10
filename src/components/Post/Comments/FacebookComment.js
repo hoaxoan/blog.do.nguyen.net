@@ -38,7 +38,7 @@ export default class ReactCommento extends React.PureComponent {
     return (
       <FacebookProvider appId={appId}>
         <div className={styles['fbcomment-container']}>
-          <div className={styles['fbcomment-container__message']}>Facebook Comment trên duyet.net sẽ ngưng hoạt động từ 2019-10, vui lòng sử dụng Commento bên dưới</div>
+          <div className={styles['fbcomment-container__message']}>Facebook Comment trên do.nguyen.net sẽ ngưng hoạt động từ 2019-10, vui lòng sử dụng Commento bên dưới</div>
           {fbCommentUrl
             ? <Comments href={fbCommentUrl} numPosts={100} mobile={true} />
             : (
