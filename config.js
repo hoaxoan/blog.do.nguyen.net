@@ -32,7 +32,7 @@ module.exports = {
   author: {
     name: 'Tôi là Do Nguyễn',
     photo: '/photo.png',
-    bio: 'Software Engineer. I blog about <a href="/tag/web/">Web</a>, <a href="/tag/mobile/">mobile development</a>, <a href="/tag/data-engineer/">Data Engineering</a>, and <a href="/tags/">more topics</a>.',
+    bio: 'Software Engineer. I blog about <a href="/tag/web/">Web</a>, <a href="/tag/mobile/">Mobile development</a>, <a href="/tag/backend/">Backend development</a>, and <a href="/tags/">more topics</a>.',
     contacts: {
       email: '',
       telegram: '',

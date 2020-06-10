@@ -6,7 +6,7 @@ template: "page"
 Software Engineer @
 
 
-I'm studying at University Of Science Science at HCM, I've been a Software Engineer @ FSOFT. Currently, Data Engineer @ Titan DMS.
+I study at University Of Science Science at HCM, I've been a Software Engineer @ FSOFT. Currently, Data Engineer @ Titan DMS.
 
 
 I am a [Software Engineer](/tag/software-engineer/) with 5+ years of experience.
@@ -16,10 +16,10 @@ I am a [Software Engineer](/tag/software-engineer/) with 5+ years of experience.
 	<figcaption>Do Nguyễn</figcaption>
 </figure>
 
-Skills & stacks: [C#], [Golang], [Mobile], [Database], [Javascript].
+Skills & stacks: [C#](/tag/c#/), [Golang](/tag/golang/), [Mobile](/tag/mobile/), [Database](/tag/database/), [Javascript](/tag/javascript/).
 
 
-[CV.pdf](https://me.do.nguyen.net/resume/do.nguyen.resume.pdf)] [[github](https://github.com/hoaxoan)] 
+[[CV.pdf](https://me.do.nguyen.net/resume/do.nguyen.resume.pdf)] [[github](https://github.com/hoaxoan)] 
 
 You can see more of my projects at [Github](https://github.com/hoaxoan).
 
