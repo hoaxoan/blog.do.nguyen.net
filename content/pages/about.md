@@ -6,7 +6,7 @@ template: "page"
 Software Engineer @
 
 
-I study at University Of Science Science at HCM, I've been a Software Engineer @ FSOFT. Currently, Data Engineer @ Titan DMS.
+I study at University Of Science Science at HCM, I've been a Software Engineer @ FSOFT. Currently, Software Engineer @ Titan DMS.
 
 
 I am a [Software Engineer](/tag/software-engineer/) with 5+ years of experience.
