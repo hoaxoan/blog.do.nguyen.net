@@ -26,7 +26,7 @@ const Post = ({ post }: Props) => {
 
   return (
     <div className={styles['post']}>
-      <Link className={styles['post__home-button']} to="/" onClick={() => gtagTrack('HomeLink', 'click', 'home')}>{siteTitle}</Link>
+      <Link className={styles['post__home-button']} to="/" onClick={() => gtagTrack('HomeLink', 'click', 'home')}><span>Home</span></Link>
 
       <div className={styles['post__content']}>
         <Content body={html} title={title} />
